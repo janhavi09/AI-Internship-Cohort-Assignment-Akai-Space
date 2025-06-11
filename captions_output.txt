@@ -1,0 +1,10 @@
+video1.avi: a woman is putting her makeup with a brush
+video2.avi: a person is cutting a piece of ice
+video3.avi: a group of people playing a game on a red carpet
+video4.avi: a man in a kitchen
+video5.avi: a soccer game is shown in the screen
+video6.avi: a person is using a keyboard to play music
+video7.avi: a man is doing a trick on a pole
+video8.avi: a man is walking a dog on a dirt road
+video9.avi: a man is writing on a blackboard
+video10.avi: a man holding a bunch of green leaves
