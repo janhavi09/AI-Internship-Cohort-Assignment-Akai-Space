@@ -1,0 +1,1 @@
+# AI-Internship-Cohort-Assignment-Akai-Space
